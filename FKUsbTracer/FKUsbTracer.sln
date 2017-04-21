@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FKUsbTracer", "FKUsbTracer.csproj", "{E7BE5FC1-F8CF-4982-98AA-0226B904B440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FKResPacker", "..\FKResPacker\FKResPacker.csproj", "{D2E3E1A1-C78D-4000-A9B6-2CD4D00D309D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7BE5FC1-F8CF-4982-98AA-0226B904B440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BE5FC1-F8CF-4982-98AA-0226B904B440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BE5FC1-F8CF-4982-98AA-0226B904B440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BE5FC1-F8CF-4982-98AA-0226B904B440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E3E1A1-C78D-4000-A9B6-2CD4D00D309D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E3E1A1-C78D-4000-A9B6-2CD4D00D309D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E3E1A1-C78D-4000-A9B6-2CD4D00D309D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E3E1A1-C78D-4000-A9B6-2CD4D00D309D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
